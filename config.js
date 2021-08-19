@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'hihi <3',
     title: 'People are catching Coronavirus but the only thing I’m catching is feelings for you 😙',
     desc: ' Wil you be mine ? ',
-    btnYes: 'I am here for you . . . always',
+    btnYes: 'You are mine, and im yours',
     btnNo: 'im not interested in dating right now :(',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
