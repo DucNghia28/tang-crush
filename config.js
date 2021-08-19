@@ -1,12 +1,11 @@
 const CONFIG = {
-    introTitle: 'Em Yêuu à !',
-    introDesc: `Let me tie your shoes, cause I dont want you falling for anyone else.😘😘
-    People are catching Coronavirus but the only thing I’m catching is feelings for you 😙 `,
+    introTitle: 'Heyy Baeee, these are some silly things from the bottom of mah heart ;) ',
+    introDesc: `Let me tie your shoes, cause I dont want you falling for anyone else.😘😘 `,
     btnIntro: 'hihi <3',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thực ra em thích anh lắm <3',
-    btnNo: 'Không, Em cần thêm thời gian :(',
+    title: 'People are catching Coronavirus but the only thing I’m catching is feelings for you 😙',
+    desc: ' Wil you be mine ? ',
+    btnYes: 'I am here for you . . . always',
+    btnNo: 'im not interested in dating right now :(',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
